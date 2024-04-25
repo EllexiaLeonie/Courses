@@ -21,7 +21,3 @@ Repositori ini adalah proyek akhir dari kursus Belajar Analisis Data dengan Pyth
 ## Streamlit Localhost
    ```bash
    streamlit run dashboard.py
-
-## Streamlit Cloud
-  ```bash
-  https://sewasepeda.streamlit.app/
